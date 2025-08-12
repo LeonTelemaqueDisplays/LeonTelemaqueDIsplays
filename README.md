@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    Hey there! I'm Leon 
     <br>I'm an Information Systems  Undergraduate Student from Trent University in Toronto.<br>
 
 </samp>
