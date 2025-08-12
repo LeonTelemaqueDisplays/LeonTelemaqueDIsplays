@@ -21,16 +21,13 @@
 
 Current Project: 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <a href="https://www.linkedin.com/in/leontelemaque" target="_blank">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn">
+ <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/kagurabachifan">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://leetcode.com/tan_dev/">
+<a rel="nofollow noopener noreferrer" target="_blank" href="https://leetcode.com/u/LeonTelemaqueDisplays/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/leetcode.png" width="30px" alt="LeetCode"></a>
   &nbsp;
   &nbsp;
@@ -42,4 +39,4 @@ Current Project:
 </samp>
 </details>
 
-⭐️ From [TanZng](https://github.com/TanZng)
+⭐️ 
